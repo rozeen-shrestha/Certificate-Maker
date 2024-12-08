@@ -35,6 +35,8 @@ This will start the server, and you should be able to access the app in your bro
 ## Preview
 
 Here’s a preview of how the generator looks like:
+![Generator Preview](https://raw.githubusercontent.com/rozeen-shrestha/Certificate-Maker/refs/heads/main/public/Screenshot%202024-12-08%20223115.png)
+![Certificate Preview]([path/to/your/preview-image.png](https://raw.githubusercontent.com/rozeen-shrestha/Certificate-Maker/refs/heads/main/public/Screenshot%202024-12-08%20223144.png))
 
 ```
 
