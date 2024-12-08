@@ -2,6 +2,11 @@
 
 A web application that allows users to generate personalized certificates.
 
+## Demo
+Here’s a online demo:
+[Visit DEMO](link)
+
+
 ## How to Build and Start
 
 To get started with the Certificate Maker project, follow these steps:
@@ -36,8 +41,5 @@ This will start the server, and you should be able to access the app in your bro
 
 Here’s a preview of how the generator looks like:
 ![Generator Preview](https://raw.githubusercontent.com/rozeen-shrestha/Certificate-Maker/refs/heads/main/public/Screenshot%202024-12-08%20223115.png)
-![Certificate Preview]([path/to/your/preview-image.png](https://raw.githubusercontent.com/rozeen-shrestha/Certificate-Maker/refs/heads/main/public/Screenshot%202024-12-08%20223144.png))
+![Certificate Preview](https://raw.githubusercontent.com/rozeen-shrestha/Certificate-Maker/refs/heads/main/public/Screenshot%202024-12-08%20223144.png)
 
-```
-
-This should display the commands more clearly in your `README.md`. Just replace the image path with the actual preview image you want to show!
